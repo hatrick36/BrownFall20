@@ -20,6 +20,9 @@ Especially when it comes to the difficult topics make sure you go back through t
 Attending office hours will help you better understand course material, complete homework assignments, and learn new things that might not normally come up in class.
 - David
 
+### Look at Documentation
+Just about every module covered in this class has extensive documentation covering any questions you may have. You will be able to find it google. Reviewing documentation for modules will not only help you solve problems you may come across in your code but will also help you better understand the code you are useing and may offer outside of the box solutions.
+
 
 ## To contribute
 
